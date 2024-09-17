@@ -1,0 +1,31 @@
+body {
+    background-color: #FFBA08;
+}
+
+h3 {
+    color: #370617;
+}
+
+.nav_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.nav_list_item {
+    display: flex;
+}
+
+.examples {
+    background-color: #E9C46A;
+    box-shadow: 5px 5px 5px 5px #F4A261;
+}
+
+.nav_link_list {
+    list-style-type: none;
+}
+
+.external_link {
+    color: #264653
+}
